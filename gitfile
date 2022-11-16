@@ -3,7 +3,6 @@ public class gitfile {
                 int a=2;
 		int b=8;
                 System.out.println(a+b);
-		System.out.println("Hello World");
 }
 }
 //Committing my first git project
