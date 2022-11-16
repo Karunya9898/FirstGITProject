@@ -1,6 +1,6 @@
 public class gitfile {
 	public void main(String[] args) {
-                int a=2;
+                int a=90;
 		int b=9;
                 System.out.println(a+b);
 		System.out.println("checking whether my jenkins can find my new commit");
