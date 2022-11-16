@@ -3,6 +3,8 @@ public class gitfile {
                 int a=2;
 		int b=9;
                 System.out.println(a+b);
+		System.out.println("checking whether my jenkins can find my new commit");
 }
 }
 //Committing my first git project
+// checking whether my jenkins find my new commit
