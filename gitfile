@@ -1,9 +1,8 @@
 public class gitfile {
 	public void main(String[] args) {
-                int a=90;
-		int b=80;
+                int a=2;
+		int b=8;
                 System.out.println(a+b);
-		System.out.println("checking whether my jenkins can find my new commit");
 }
 }
 //Committing my first git project
