@@ -1,4 +1,8 @@
-a=2
-b=9
-c=a+b
-Committing my first git project
+public class gitfile {
+	public void main(String[] args) {
+                int a=2;
+		int b=9;
+                System.out.println(a+b);
+}
+}
+//Committing my first git project
