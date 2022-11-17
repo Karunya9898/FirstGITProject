@@ -1,13 +1,22 @@
 public class gitfile {
 	public static void main(String[] args)
  {
-                int a=2;
-		int b=8;
-                System.out.println(a+b);
-		int mul=a*b;
-		System.out.println(mul);
-		System.out.println("Continuous Integration");
+//i for rows and j for columns      
+//row denotes the number of rows you want to print  
+int i, j, row=6;   
+//outer loop for rows  
+for(i=0; i<row; i++)   
+{   
+//inner loop for columns  
+for(j=0; j<=i; j++)   
+{   
+//prints stars   
+System.out.print("* ");   
+}   
+//throws the cursor in a new line after printing each line  
+System.out.println();   
+}   
 }
 }
-// Committing addition
+// Pattern generation
 // checking whether my jenkins find my new commit
